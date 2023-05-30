@@ -1,0 +1,6 @@
+,TargetName,TargetType,MetricGroup,Metric,Severity,Message,CodeApplication,Cluster
+2,crsve2,Systems Infrastructure Server,Resource State,Test Fault Status,W,No message,BTS_,crsve2
+3,crsve3,Systems Infrastructure Server,Resource State,Test Fault Status,W,No message,BTS_,crsve3
+4,crsve4,Systems Infrastructure Server,Resource State,Test Fault Status,W,Error on the server,XH_,crsve4
+5,crsve5,Systems Infrastructure Server,Resource State,Test Fault Status,E,Error on the server,XH_,crsve5
+6,has_weya0333.net.intra.laposte.fr,Systems Infrastructure Server,Resource State,Test Fault Status,E,Error on the server,OM_,has_weya0333.net.intra.laposte.fr
